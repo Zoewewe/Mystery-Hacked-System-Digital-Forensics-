@@ -1,9 +1,16 @@
-# Mystery-Hacked-System-Digital-Forensics-
+# Mystery Hacked System Digital Forensics
 Doing digital forensic based on Ali Hadi's Challenge #3 - Mystery Hacked System
 
 [Source for evidence file](https://www.ashemery.com/dfir.html)
 
-In this case, we are given an 001 file and we are meant to answer the following questions:
+##### Scenario:
+One day an IT dept. guy/gal came to work to find the message below written in a file on his/her system! He/Her immediately reported that to you.
+
+Hello master, Catch me, if you can!
+
+Best, regards Your admin ;)
+
+##### In this case, we are given an 001 file and we are meant to answer the following questions:
 
 - How was this system hacked? (What is your hypothesis)
 - What evidence did you find that proves your hypothesis?
