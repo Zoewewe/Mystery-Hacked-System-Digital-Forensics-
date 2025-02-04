@@ -16,3 +16,8 @@ Best, regards Your admin ;)
 - What evidence did you find that proves your hypothesis?
 - How did you approach and solve the case? (write a report)
 - Anything you would like to add?
+
+## Other Resources to help solving this case:
+[Blog](https://windowsir.blogspot.com/2019/01/mystery-hacked-system.html)
+[Youtube Video](https://www.youtube.com/watch?v=-QZe9p5zbLs)
+
